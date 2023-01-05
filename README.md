@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Freitas
 
-- 🔭  Estudante de Programação no Senac RJ
+- 💻  Estudante de Programação no Senac RJ
 - 📩  Lucas1frts2@gmail.com
 
 <div align="center">
